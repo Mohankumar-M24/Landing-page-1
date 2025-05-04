@@ -1,0 +1,62 @@
+.things-holder{
+    place-content: center;
+    /* place-items: center; */
+    margin: 0% 0% 0% 0%;
+    padding: 0% 0% 0% 0%;
+}
+
+.container{
+    display: flex;
+    padding: 0% 0% 0% 0%;
+    width: auto;
+    margin: 0% 0% 0% 0%;;
+    justify-content: space-between;
+}
+
+.symbol1 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    display: inline;
+    width: 95rem;
+    border: 1px;
+    padding: 20px;
+    margin: 0% 0% 0% 0%;
+    height: 50%;
+    background-color: #FFFFFF;
+    cursor : pointer;
+}
+
+.sign-up{
+    font-family: poppins, sans-serif;
+    font-weight: 900;
+    font-size:100%
+}
+
+.completes{
+font-family: "Poppins", sans-serif;
+  font-weight: normal;
+  font-style: normal;
+}
+
+.symbol2 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    display: inline;
+    width: 95rem;
+    border: 1px;
+    padding: 20px;
+    margin: auto;
+    height: 50%;
+    background-color: #FFFFFF;
+    cursor : pointer;
+}
+
+.symbol3 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    display: inline;
+    width: 95rem;
+    border: 1px;
+    padding: 20px;
+    margin: auto;
+    height: 50%;
+    background-color: #FFFFFF;
+    cursor : pointer;
+} 

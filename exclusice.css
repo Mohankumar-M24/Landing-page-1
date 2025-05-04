@@ -1,0 +1,110 @@
+.secont-topic {
+    /* position: absolute; */
+    display: inline;
+    text-align: center;
+    justify-content: space-evenly;
+    /* top: 190%; */
+    width: 40%;
+    right: 0%;
+    /* margin: 0% 23%; */
+
+}
+
+.checked {
+    color: orange;
+}
+
+.end-to-end {
+    display: flex;
+    justify-content: space-between;
+}
+
+.mother-area {
+    display: flex;
+    /* place-content: center; */
+    /* align-items: center; */
+    /* justify-content: center; */
+    background-color: #FEFCFB;
+    /* position: absolute; */
+    display: inline;
+    /* text-align: center; */
+    top: 120%;
+    width: 0%;
+    /* right: 0% 0%; */
+    margin: 0% -10%;
+    cursor: pointer;
+}
+
+.area1 {
+    display: inline-block;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 0.1px 1px 0 rgba(0, 0, 0, 0.2);
+    /* width: 300px; */
+    border: 1px;
+    padding: 18px;
+    /* margin: 190px 20px; */
+    height: 25rem;
+    background-color: #FEFCFB;
+    /* background-color: #FD8D3A; */
+}
+
+.area2 {
+    display: inline-block;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 0.1px 1px 0 rgba(0, 0, 0, 0.2);
+    /* width: 300px; */
+    border: 1px;
+    padding: 18px;
+    /* margin: 190px 20px; */
+    height: 25rem;
+    background-color: #FEFCFB;
+    /* background-color: #FD8D3A; */
+}
+
+.area3 {
+    display: inline-block;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 0.1px 1px 0 rgba(0, 0, 0, 0.2);
+    /* width: 300px; */
+    border: 1px;
+    padding: 20px;
+    /* margin: 190px 20px; */
+    height: 25rem;
+    background-color: #FEFCFB;
+    /* background-color: #FD8D3A; */
+}
+
+.area4 {
+    display: inline-block;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 0.1px 1px 0 rgba(0, 0, 0, 0.2);
+    /* width: 300px; */
+    border: 1px;
+    padding: 20px;
+    /* margin: 0px 0px; */
+    height: 25rem;
+    background-color: #FEFCFB;
+    /* background-color: #FD8D3A; */
+}
+
+.span {
+    display: flex;
+    margin: 0px 10px;
+    margin: 0px 0px 0px 10px;
+}
+
+.span-value {
+    float: right;
+
+    /* display: flex; */
+    /* justify-content: space-between; */
+}
+
+.list{
+    font-family: "Volkhov", serif;
+            font-weight: 700;
+            font-style: normal;
+            font-size: 2.5rem;
+}
+
+.small-cont{
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    color: #666666;
+}
