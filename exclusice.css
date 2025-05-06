@@ -6,7 +6,8 @@
     /* top: 190%; */
     width: 40%;
     right: 0%;
-    /* margin: 0% 23%; */
+    /* left: 50rem; */
+    /* margin: 0% 0% 0% 50%; */
 
 }
 
@@ -26,12 +27,12 @@
     /* justify-content: center; */
     background-color: #FEFCFB;
     /* position: absolute; */
-    display: inline;
+    /* display: inline; */
     /* text-align: center; */
-    top: 120%;
+    /* top: 120%; */
     width: 0%;
     /* right: 0% 0%; */
-    margin: 0% -10%;
+    margin: 0% -7%;
     cursor: pointer;
 }
 
